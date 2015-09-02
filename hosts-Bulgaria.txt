@@ -1,1 +1,4 @@
 127.0.0.1 r5.dir.bg
+127.0.0.1 ads2.zamunda.net
+127.0.0.1 investorbg.adocean.pl
+127.0.0.1 box.bg/ads

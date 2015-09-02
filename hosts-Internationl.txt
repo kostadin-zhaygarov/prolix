@@ -1,3 +1,5 @@
 ﻿127.0.0.1 pagead2.googlesyndication.com
-
 127.0.0.1 diff3.smartadserver.com
+127.0.0.1 rad.msn.com
+127.0.0.1 ds.serving-sys.com
+127.0.0.1 cdn.flashtalking.com
