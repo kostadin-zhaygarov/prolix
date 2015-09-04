@@ -1,4 +1,10 @@
 127.0.0.1 r5.dir.bg
 127.0.0.1 ads2.zamunda.net
 127.0.0.1 investorbg.adocean.pl
-127.0.0.1 box.bg/ads
+127.0.0.1 www.box.bg
+127.0.0.1 adbg.hit.gemius.pl
+127.0.0.1 ls.hit.gemius.pl
+127.0.0.1 bg.adocean.pl
+127.0.0.1 b.grabo.bg
+127.0.0.1 ads.garga.biz
+127.0.0.1 n.ads1-adnow.com

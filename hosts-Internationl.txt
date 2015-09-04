@@ -3,3 +3,5 @@
 127.0.0.1 rad.msn.com
 127.0.0.1 ds.serving-sys.com
 127.0.0.1 cdn.flashtalking.com
+127.0.0.1 doubleclick.net
+127.0.0.1 ad.dc2.adtech.de
